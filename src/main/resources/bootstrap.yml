@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: pkmst-product
+  profiles:
+    active: local    
